@@ -148,12 +148,15 @@ h3 {
 }
 
 #flush_success {
-    padding: 2.5em 2em;
-    margin: 4em 3;
-    color: #2c2c2f;
-    background: #cde4ff;
+    padding: 1.5em 1em;
+    margin: 2em 1;
+    color: #556B2F;
+    background: #CEF9DC;
 }
-#flush_success {
-    margin: 4;
-    padding: 4;
+
+#flush_error {
+    padding: 1.5em 1em;
+    margin: 2em 1;
+    color: #556B2F;
+    background: #CEF9DC;
 }
